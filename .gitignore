@@ -1,0 +1,9 @@
+# build output
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+__pycache__/
+*.pyc
+# side-by-side with the third-party reference image (made locally only)
+compare.png

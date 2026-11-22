@@ -1,0 +1,20 @@
+# Apps without a hand-drawn icon. Their icon is made by math FROM THEIR OWN ICON.
+#
+#   App Name | package/activity | g=<hex> c=o     <- traced on the phone
+#   App Name | package/activity | img=icons/x.png <- traced here from a PNG
+#   App Name | package/activity                   <- no icon: category glyph or monogram
+#
+# Easiest: open Pixel Icons on the phone -> [ MISSING ICONS ] -> [ COPY LIST ],
+# paste below, run  python tools/generate.py  and rebuild the APK.
+AI Grid Camera | com.aigridcamera/com.aigridcamera.MainActivity | g=0003ffc018e326644cd9a4ac187c000 c=g
+BlackHole | com.blackhole.app.debug/com.blackhole.app.MainActivity | g=03e08220280300600c01802808820f8 c=g
+Glasses | com.google.android.glasses.companion/com.google.android.glasses.companion.startup.SplashActivity | g=000000000000f7a297fe00000000000 c=g
+Google | com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity | g=07013e28aa0b217c280500a768920f8 c=g
+Meow Music | com.meow.meow_music/com.meow.meow_music.MainActivity | g=1e0240440879012453545184d0a6180 c=o
+Music | com.example.music/com.example.music.MainActivity | g=1004fe2c2644c896d22644c868fe401 c=g
+music hub | com.example.musichub/com.example.musichub.MainActivity | g=0000007ff8030090118c0e000000000 c=g
+Nishpaksh | com.scan2excel.ai/com.scan2excel.ai.MainActivity | g=03e082202405226aaa8a404410fe000 c=o
+Safety | com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity | g=0000383ae462f08c2262832e5828070 c=g
+Student Notes | com.moki.studentnotes/com.moki.studentnotes.MainActivity | g=0001fc20440903a0ac1582bc5c7e000 c=g
+TMoble | com.android.stk/com.android.stk.StkMain | g=07f891221442704408831fa2042083e c=g
+Voice Access | com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity | g=00000001e364932162d421800000000 c=g
